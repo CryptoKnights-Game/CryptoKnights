@@ -6,7 +6,7 @@ permalink: /
 ---
 # Overview
 
-![](<.gitbook/assets/CK logo-V2-promo banner.png>)
+![](<https://github.dev/CryptoKnights-Game/cryptoknights-whitepaper/blob/029e17111b0dd5466628c54a2bb1da629696d2ce/.gitbook/assets/CK%20logo-V2-promo%20banner.png>)
 
 ### What is CryptoKnights?
 
