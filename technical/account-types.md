@@ -1,3 +1,9 @@
+---
+layout: default
+title: Account Types
+parent: Technical
+nav_order: 3
+---
 # Account Types
 
 ### Tier 1: Guest Account

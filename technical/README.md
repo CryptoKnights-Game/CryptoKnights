@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TECHNICAL
+title: Technical
 nav_order: 13
 has_children: true
 ---

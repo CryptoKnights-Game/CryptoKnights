@@ -1,3 +1,9 @@
+---
+layout: default
+title: Bridge
+parent: Technical
+nav_order: 2
+---
 # Bridge
 
 ### Multichain

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Devices
+parent: Technical
+nav_order: 4
+---
 # Devices
 
 CryptoKnights runs on:
