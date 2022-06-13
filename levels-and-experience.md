@@ -1,3 +1,9 @@
+---
+layout: default
+title: Levels & Experience
+nav_order: 4
+---
+
 # Levels & Experience
 
 CryptoKnights has a unique leveling system. **Levels (Lv)** and **Experience (XP)** are viewed as scarce assets!

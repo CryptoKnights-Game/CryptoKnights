@@ -1,3 +1,10 @@
+---
+layout: default
+title: Off-Chain Assets
+parent: Game Assets
+nav_order: 1
+---
+
 # Off-Chain Assets
 
 Off-Chain Assets are in general consumable items in the game that hold less economic value and is thus more suitable to be hosted purely on the server. Players can still have an enjoyable gaming experience with only off-chain assets. They include:

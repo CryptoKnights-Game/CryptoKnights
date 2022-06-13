@@ -1,3 +1,10 @@
+---
+layout: default
+title: On-Chain Assets
+parent: Game Assets
+nav_order: 2
+---
+
 # On-Chain Assets
 
 On-Chain Assets can be withdrawn from the game to the player's crypto wallet. The player would do so in order to:
