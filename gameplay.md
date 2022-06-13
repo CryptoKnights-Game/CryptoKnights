@@ -1,7 +1,7 @@
 ---
 layout: default
-title: GAMEPLAY MTFK
-nav_order: 1
+title: Gameplay
+nav_order: 2
 ---
 # Gameplay
 
