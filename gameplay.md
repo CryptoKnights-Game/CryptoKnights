@@ -6,7 +6,7 @@ nav_order: 2
 
 # Gameplay
 
-![](.gitbook/assets/CK_gameplay.jpg)
+![](files/CK_gameplay.jpg)
 
 ### Win Condition
 

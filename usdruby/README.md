@@ -7,7 +7,7 @@ has_children: true
 
 # $RUBY
 
-![RUBY](<../.gitbook/assets/RUBY anime.gif>)
+![RUBY](<../files/RUBY anime.gif>)
 
 **Name:** CryptoKnights RUBY
 
