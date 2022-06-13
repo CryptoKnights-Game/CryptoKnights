@@ -2,7 +2,7 @@
 layout: default
 title: Minting New Knights
 parent: Knights
-nav_order: 2
+nav_order: 3
 ---
 
 # Minting New Knights

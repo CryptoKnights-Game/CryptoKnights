@@ -1,3 +1,9 @@
+---
+layout: default
+title: Genesis Royalty Pool
+parent: Knights
+nav_order: 2
+---
 # Genesis Royalty Pool
 
 The Genesis Royalty Pool is the Royalty Pool for Genesis Knights. It:
