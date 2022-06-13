@@ -1,3 +1,8 @@
+---
+layout: default
+title: Marketplace
+nav_order: 9
+---
 # Marketplace
 
 ### Monet.Market Offers a Secondary Marketplace for NFTs

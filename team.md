@@ -1,3 +1,8 @@
+---
+layout: default
+title: Team
+nav_order: 12
+---
 # Team
 
 ### Benjamin Scherrey – Chief Fan

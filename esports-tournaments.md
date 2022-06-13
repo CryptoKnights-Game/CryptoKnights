@@ -1,3 +1,8 @@
+---
+layout: default
+title: eSports Tournaments
+nav_order: 10
+---
 # eSports Tournaments
 
 The team behind CryptoKnights is building an eSports platform that integrates **multi-way, super-low-latency, blockchain-aware live streaming system**.
