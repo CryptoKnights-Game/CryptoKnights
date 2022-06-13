@@ -7,8 +7,8 @@ nav_order: 2
 
 # Distribution
 
-| Allocation         | Amount      |% |                                                                                                                                             |
-|:------------------ |:----------- |:------------------- :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| Allocation         | Amount      | %     |                                                                                                                                               |
+|:------------------ |:----------- |:------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------- |
 | Player Rewards     | 150,000,000 | 30   | Unlocked over 5 years mint new RUBY for Player Rewards starting from year 6                                   |
 | Game Reserve       | 100,000,000 | 20   | Managed by the game company for improving the game Unlocked over 5 years                                     |
 | Community Fund     | 100,000,000 | 20   | Managed by the game company for promoting the game Unlocked over 5 years                                            |
