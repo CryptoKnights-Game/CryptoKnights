@@ -7,7 +7,7 @@ permalink: /
 
 # Overview
 
-![](.gitbook/assets/CK-logo-V2-promo-banner.png)
+![](assets/CK-logo-V2-promo-banner.png)
 
 ### What is CryptoKnights?
 
