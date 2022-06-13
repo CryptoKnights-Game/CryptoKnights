@@ -1,3 +1,11 @@
+---
+layout: default
+title: Game Assets
+nav_order: 5
+has_children: true
+permalink: /cryptoknights-whitepaper/game-assets
+---
+
 # Game Assets
 
 Since the game runs on a centralized server, assets are controlled by the server when used in game, similar to how a centralized exchange will control your coins when you deposit them to trade.
