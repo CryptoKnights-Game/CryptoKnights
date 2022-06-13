@@ -1,3 +1,9 @@
+---
+layout: default
+title: Game modes
+nav_order: 3
+---
+
 # Gamemodes
 
 ### Ranked Game
