@@ -4,9 +4,10 @@ title: Overview
 nav_order: 1
 permalink: /
 ---
+
 # Overview
 
-![](<.gitbook/assets/CK logo-V2-promo banner.png>)
+![](.gitbook/assets/CK-logo-V2-promo-banner.png)
 
 ### What is CryptoKnights?
 
@@ -37,4 +38,3 @@ Since the main introduction of value is not from earning in-game currencies but 
 ### Advanced Financialization of Assets
 
 CryptoKnights is heavily inspired by DeFi (Decentralized Finance), assets are designed to be **compatible with DeFi instruments**. We introduce new methods for NFT rental, scholarship, options, royalty split, AMMs (Automated Market Makers), and more.
-
