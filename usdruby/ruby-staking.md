@@ -1,3 +1,10 @@
+---
+layout: default
+title: RUBY Staking
+parent: $RUBY
+nav_order: 4
+---
+
 # RUBY Staking
 
 Stakers in the RUBY Staking Pool will receive rewards from:&#x20;

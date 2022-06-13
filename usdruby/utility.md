@@ -1,3 +1,10 @@
+---
+layout: default
+title: Utility
+parent: $RUBY
+nav_order: 1
+---
+
 # Utility
 
 ### Restore XP

@@ -1,3 +1,10 @@
+---
+layout: default
+title: RUBY Burning
+parent: $RUBY
+nav_order: 5
+---
+
 # RUBY Burning
 
 When a player spends RUBY in the game:&#x20;

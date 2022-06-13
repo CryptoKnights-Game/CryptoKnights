@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fiscal Policy
+parent: $RUBY
+nav_order: 7
+---
+
 # Fiscal Policy
 
 ### Fiscal Policy of CryptoKnights

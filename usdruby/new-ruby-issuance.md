@@ -1,3 +1,10 @@
+---
+layout: default
+title: New RUBY Issuance
+parent: $RUBY
+nav_order: 3
+---
+
 # New RUBY Issuance
 
 * Starting from year 6 there will be a fixed amount of 20,000,000 RUBY added into the supply each year for “Player Rewards”.&#x20;

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Monetary Policy
+parent: $RUBY
+nav_order: 6
+---
+
 # Monetary Policy
 
 ### Monetary Policy of CryptoKnights

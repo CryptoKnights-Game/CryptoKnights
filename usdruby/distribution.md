@@ -1,3 +1,10 @@
+---
+layout: default
+title: Distribution
+parent: $RUBY
+nav_order: 2
+---
+
 # Distribution
 
 | Allocation         | Amount      | %                   |                                                                                                                                               |

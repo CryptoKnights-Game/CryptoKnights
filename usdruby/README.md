@@ -1,3 +1,10 @@
+---
+layout: default
+title: $RUBY
+nav_order: 6
+has_children: true
+---
+
 # $RUBY
 
 ![RUBY](<../.gitbook/assets/RUBY anime.gif>)
