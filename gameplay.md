@@ -3,9 +3,10 @@ layout: default
 title: Gameplay
 nav_order: 2
 ---
+
 # Gameplay
 
-![](.gitbook/assets/CK\_gameplay.jpg)
+![](.gitbook/assets/CK_gameplay.jpg)
 
 ### Win Condition
 
@@ -31,11 +32,11 @@ There are **8 cards in total** in a player's Card deck.
 
 Cards are categorized by their background color:
 
-* **Red**: Attack
-* **Blue**: Defend
-* **Green**: Heal
-* **Yellow**: Special
-* **Purple**: Special
+- **Red**: Attack
+- **Blue**: Defend
+- **Green**: Heal
+- **Yellow**: Special
+- **Purple**: Special
 
 The numbers shown on the top of the Cards are the Stamina it consumes.
 
