@@ -1,3 +1,10 @@
+---
+layout: default
+title: Initial Knight Offering
+parent: Knights
+nav_order: 1
+---
+
 # Initial Knight Offering
 
 ### Genesis Knights

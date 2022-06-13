@@ -1,3 +1,10 @@
+---
+layout: default
+title: Minting New Knights
+parent: Knights
+nav_order: 2
+---
+
 # Minting New Knights
 
 ### New Knights can be Minted

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Auctions
+nav_order: 8
+---
 # Auctions
 
 CryptoKnights uses [monet.market](https://monet.market/) to launch all its NFTs.

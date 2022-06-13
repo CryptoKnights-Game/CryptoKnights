@@ -1,3 +1,10 @@
+---
+layout: default
+title: Knights
+nav_order: 7
+has_children: true
+---
+
 # Knights
 
 ### Fight with a Knight
