@@ -28,4 +28,4 @@ nav_order: 3
 * Use “Email + Password” to log in, but sometimes need to sign digital signatures with their crypto wallet.
 * Player can earn both Off-Chain Assets and On-Chain Assets.
 * Player can mint assets as ERC tokens and withdraw to their wallet.
-* All advanced NFT features will require this account tier.\
+* All advanced NFT features will require this account tier.
