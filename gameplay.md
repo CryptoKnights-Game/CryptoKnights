@@ -1,3 +1,8 @@
+---
+layout: default
+title: GAMEPLAY MTFK
+nav_order: 1
+---
 # Gameplay
 
 ![](.gitbook/assets/CK\_gameplay.jpg)
