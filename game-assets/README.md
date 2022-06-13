@@ -3,7 +3,6 @@ layout: default
 title: Game Assets
 nav_order: 5
 has_children: true
-permalink: /cryptoknights-whitepaper/game-assets
 ---
 
 # Game Assets
