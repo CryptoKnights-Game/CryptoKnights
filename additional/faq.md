@@ -1,3 +1,9 @@
+---
+layout: default
+title: FAQ
+parent: Additional
+nav_order: 2
+---
 # FAQ
 
 ### What is CryptoKnights?

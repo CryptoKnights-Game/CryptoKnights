@@ -1,3 +1,9 @@
+---
+layout: default
+title: Brand Assets
+parent: Additional
+nav_order: 3
+---
 # Brand Assets
 
 ### RUBY .AI

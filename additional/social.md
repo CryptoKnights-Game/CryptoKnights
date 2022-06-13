@@ -1,3 +1,9 @@
+---
+layout: default
+title: Social
+parent: Additional
+nav_order: 1
+---
 # Social
 
 * **Website:** [cryptoknights.games](https://cryptoknights.games/)****
