@@ -45,4 +45,3 @@ The Clan with the most scores will be on the Leaderboard and win prizes.
 Friends can set a Custom Match to fight each other.
 
 A use case of this game mode is to set up matches for **eSports Tournaments**.
-test
