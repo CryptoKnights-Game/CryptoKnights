@@ -12,7 +12,9 @@ nav_order: 11
 * [x] Discord
 * [x] Telegram
 * [x] Youtube
+* [ ] Medium
 * [ ] Facebook
+* [ ] Instagram
 * [ ] Fandom.com
 * [ ] Public Github
 
