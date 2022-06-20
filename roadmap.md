@@ -83,7 +83,7 @@ nav_order: 11
 * [ ] **Harmony**
 * [ ] **SmartBCH**  on Bitcoin Cash
 
-(The deployment order may change.)
+(The deployment order may be subject change.)
 
 ### Expansions
 
