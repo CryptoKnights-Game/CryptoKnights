@@ -66,22 +66,22 @@ nav_order: 11
 ### Deploy Contracts on EVM Chains
 
 * [ ] **Ethereum**
-* [ ] **Polygon** on Ethereum
-* [ ] **Arbitrum** on Ethereum
-* [ ] **Optimism** on Ethereum
-* [ ] **Gnosis** on Ethereum
-* [ ] **Moonbeam** on Polkadot
+* [ ] **Polygon**  on Ethereum
+* [ ] **Arbitrum**  on Ethereum
+* [ ] **Optimism**  on Ethereum
+* [ ] **Gnosis**  on Ethereum
+* [ ] **Moonbeam**  on Polkadot
 * [ ] **BNB**
-* [ ] **Aurora** on NEAR
-* [ ] **Evmos** on Cosmos
-* [ ] **Optimism on Gnosis** on Ethereum
+* [ ] **Aurora**  on NEAR
+* [ ] **Evmos**  on Cosmos
+* [ ] **Optimism on Gnosis**  on Ethereum
 * [ ] **Celo**
 * [ ] **Avalanche-C**
 * [ ] **Fantom**
 * [ ] **Cronos**
-* [ ] **Moonriver** on Kusama
+* [ ] **Moonriver**  on Kusama
 * [ ] **Harmony**
-* [ ] **SmartBCH** on Bitcoin Cash
+* [ ] **SmartBCH**  on Bitcoin Cash
 
 (The deployment order may change.)
 
