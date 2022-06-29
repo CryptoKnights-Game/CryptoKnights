@@ -81,7 +81,6 @@ nav_order: 11
 * [ ] **Cronos**
 * [ ] **Moonriver**  on Kusama
 * [ ] **Harmony**
-* [ ] **SmartBCH**  on Bitcoin Cash
 
 (The deployment order may be subject change.)
 
