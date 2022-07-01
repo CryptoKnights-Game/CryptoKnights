@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Monetary Policy
 parent: $RUBY
 nav_order: 6
@@ -19,7 +18,7 @@ Uniswap v3 offers [Concentrated Liquidity](https://docs.uniswap.org/protocol/con
 
 CryptoKnights will allocate a sizable amount of its RUBY reserve to a series of Uniswap v3 positions, ranging **from 0.1 USD per RUBY to infinity**. From the players' perspective, this can be interpretated as the Game Operator selling RUBY to them starting at 0.1 USD. As price goes up, the Game Operator sells more RUBY; when price goes down, the Game Operator buys back RUBY instead.
 
-![Core Liquidity on 3 Blockchains / Ranging from Price=x to Infinity / Total Liquidity=y](<../files/Graph1 Core Liquidity.png>)
+![Core Liquidity on 3 Blockchains / Ranging from Price=x to Infinity / Total Liquidity=y](<../.gitbook/assets/Graph1 Core Liquidity.png>)
 
 **We do not intend to withdraw these Uniswap v3 positions** as it will destabilize the RUBY price. Only when we are migrating to another Automated Market Maker (AMM) will we adjust them.
 
@@ -27,7 +26,7 @@ CryptoKnights will allocate a sizable amount of its RUBY reserve to a series of 
 
 We may **put extra liquidity into positions of other price intervals** so as to incentivize RUBY price to remain in a certain range.
 
-![3 Extra Liquidity Positions Added](<../files/Graph2 Extra Liquidity.png>)
+![3 Extra Liquidity Positions Added](<../.gitbook/assets/Graph2 Extra Liquidity.png>)
 
 For example, if RUBY price hits 10 USD and we find that price to be overvalued, we may put more RUBY into a position ranging from 10 USD per RUBY to higher. That way it would be harder for buyers to push RUBY price up furthermore.
 

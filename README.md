@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Overview
 nav_order: 1
 permalink: /
@@ -7,7 +6,7 @@ permalink: /
 
 # Overview
 
-![](<files/CK logo-V2-promo banner.png>)
+![](<.gitbook/assets/CK logo-V2-promo banner (1).png>)
 
 ### What is CryptoKnights?
 

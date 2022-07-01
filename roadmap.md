@@ -1,8 +1,8 @@
 ---
-layout: default
 title: Roadmap
 nav_order: 11
 ---
+
 # Roadmap
 
 ### Social
@@ -23,9 +23,9 @@ nav_order: 11
 * [x] **Closed Beta**
 * [x] Demo Tournament
 * [x] Demo Auction
+* [x] Email Login
 * [ ] Listed on Play Store
 * [ ] Listed on App Store
-* [ ] Email Login
 * [ ] **Open Beta**
 * [ ] Beta Tester Tournament
 * [ ] Official PvP Ranking System
@@ -66,20 +66,20 @@ nav_order: 11
 ### Deploy Contracts on EVM Chains
 
 * [ ] **Ethereum**
-* [ ] **Polygon**  on Ethereum
-* [ ] **Arbitrum**  on Ethereum
-* [ ] **Optimism**  on Ethereum
-* [ ] **Gnosis**  on Ethereum
-* [ ] **Moonbeam**  on Polkadot
+* [ ] **Polygon** on Ethereum
+* [ ] **Arbitrum** on Ethereum
+* [ ] **Optimism** on Ethereum
+* [ ] **Gnosis** on Ethereum
+* [ ] **Moonbeam** on Polkadot
 * [ ] **BNB**
-* [ ] **Aurora**  on NEAR
-* [ ] **Evmos**  on Cosmos
-* [ ] **Optimism on Gnosis**  on Ethereum
+* [ ] **Aurora** on NEAR
+* [ ] **Evmos** on Cosmos
+* [ ] **Optimism on Gnosis** on Ethereum
 * [ ] **Celo**
 * [ ] **Avalanche-C**
 * [ ] **Fantom**
 * [ ] **Cronos**
-* [ ] **Moonriver**  on Kusama
+* [ ] **Moonriver** on Kusama
 * [ ] **Harmony**
 
 (The deployment order may be subject change.)
