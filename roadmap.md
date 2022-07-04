@@ -12,6 +12,7 @@ nav_order: 11
 * [x] Discord
 * [x] Telegram
 * [x] Youtube
+* [ ] TikTok
 * [ ] Medium
 * [ ] Facebook
 * [ ] Instagram
