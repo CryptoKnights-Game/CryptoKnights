@@ -1,9 +1,9 @@
 {
     "name":"aKNIGHT",
     "description":"A CryptoKnights x gDEX Metaverse badge. This artifact has a Knight. Extremely rare. Merely taking a glimpse of it shall give the holder ultimate power.",
-    "image":"https://raw.githubusercontent.com/CryptoKnights-Game/CryptoKnights/main/files/alphaKNIGHTgDEX.png",
+    "image":"https://raw.githubusercontent.com/CryptoKnights-Game/CryptoKnights/main/files/AlphaKNIGHTalt2.png",
     "external_url":"https://cryptoknights.games/",
-    "image_url":"https://raw.githubusercontent.com/CryptoKnights-Game/CryptoKnights/main/files/alphaKNIGHTgDEX.png",
+    "animation_url":"https://raw.githubusercontent.com/CryptoKnights-Game/CryptoKnights/main/files/alphaKNIGHTalt2.mp4",
     "attributes":[
         {
            "trait_type":"Artist",
