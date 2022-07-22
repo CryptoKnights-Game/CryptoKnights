@@ -69,6 +69,7 @@ nav_order: 11
 * [ ] **Ethereum**
 * [ ] **Polygon** on Ethereum
 * [ ] **Arbitrum** on Ethereum
+* [ ] **Arbitrum Nitro** on Ethereum
 * [ ] **Optimism** on Ethereum
 * [ ] **Gnosis** on Ethereum
 * [ ] **Moonbeam** on Polkadot
