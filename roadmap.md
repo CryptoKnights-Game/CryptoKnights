@@ -67,16 +67,17 @@ nav_order: 11
 ### Deploy Contracts on EVM Chains
 
 * [ ] **Ethereum**
-* [ ] **Polygon** on Ethereum
+* [ ] **Ethereum PoW?**
+* [ ] **Polygon PoS** on Ethereum
 * [ ] **Arbitrum** on Ethereum
-* [ ] **Arbitrum Nitro** on Ethereum
+* [ ] **Arbitrum Nova** on Ethereum
 * [ ] **Optimism** on Ethereum
 * [ ] **Gnosis** on Ethereum
+* [ ] **Optimism on Gnosis** on Ethereum
 * [ ] **Moonbeam** on Polkadot
 * [ ] **BNB**
 * [ ] **Aurora** on NEAR
 * [ ] **Evmos** on Cosmos
-* [ ] **Optimism on Gnosis** on Ethereum
 * [ ] **Celo**
 * [ ] **Avalanche-C**
 * [ ] **Fantom**
