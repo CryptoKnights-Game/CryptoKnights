@@ -34,6 +34,6 @@
 
 ## Additional
 
-* [Social](additional/social.md)
+* [Links](additional/social.md)
 * [FAQ](additional/faq.md)
 * [Brand Assets](additional/brand-assets.md)

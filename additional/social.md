@@ -1,12 +1,16 @@
 ---
-layout: default
 title: Social
 parent: Additional
 nav_order: 1
 ---
-# Social
 
-* **Website:** [cryptoknights.games](https://cryptoknights.games/)****
-* **Twitter:** [twitter.com/CKnightsGame](https://twitter.com/CKnightsGame)****
-* **Telegram:** [t.me/CryptoKnightsGames](https://t.me/CryptoKnightsGames)****
-* **Youtube:** [youtube.com/watch?v=kZ1Qn65SvDA](https://www.youtube.com/watch?v=kZ1Qn65SvDA)
+# Links
+
+* **Linktree:** https://linktr.ee/cryptoknightsgames
+* **Website:** https://cryptoknights.games
+* **Whitepaper:** https://whitepaper.cryptoknights.games
+* **Twitter:** https://twitter.com/CryptoKnightsss
+* **Discord:** https://discord.gg/CryptoKnightsGames
+* **Telegram:** https://t.me/CryptoKnightsGames
+* **Youtube:** https://www.youtube.com/watch?v=7ScJn6jH2E4
+* **Twitch:** https://www.twitch.tv/cryptoknightsgames
