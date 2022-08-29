@@ -1,6 +1,6 @@
 # Rules for Castles
 
-* A **Watch costs 10x the price of a minting a Knight NFT** to mint.
+* A **Watch costs 10x the price of minting a Knight NFT** to mint.
   * The price of minting a new Knight is (The Total Amount of Knights / 100), priced in USD stablecoins.
   * We will premint 1,000 "Genesis Knights" at launch, therefore a new Knight will cost 10 USD to mint at start, putting a Watch at 100 USD to mint at start.
 * Each Castle can own up to **4%** of the total Knight supply.
