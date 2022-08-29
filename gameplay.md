@@ -1,12 +1,11 @@
 ---
-layout: default
 title: Gameplay
 nav_order: 2
 ---
 
 # Gameplay
 
-![](files/CK_gameplay.jpg)
+![](files/CK\_gameplay.jpg)
 
 ### Win Condition
 
@@ -32,11 +31,11 @@ There are **8 cards in total** in a player's Card deck.
 
 Cards are categorized by their background color:
 
-- **Red**: Attack
-- **Blue**: Defend
-- **Green**: Heal
-- **Yellow**: Special
-- **Purple**: Special
+* **Red**: Attack
+* **Blue**: Defend
+* **Green**: Heal
+* **Yellow**: Special
+* **Purple**: Special
 
 The numbers shown on the top of the Cards are the Stamina it consumes.
 
@@ -44,7 +43,7 @@ The numbers shown on the top of the Cards are the Stamina it consumes.
 
 Stamina is used to play Cards. It is shown as a bar below your hand of Cards.
 
-Stamina **regenerates automatically**. The maximum Stamina is 10. The state of the Knight will affect it's regeneration speed.&#x20;
+Stamina **regenerates automatically**. The maximum Stamina is 10. The state of the Knight will affect it's regeneration speed.
 
 For example, when a Knight is attacking it's opponent, it's Stamina regenerates slower; when the Knight is standing still, it's Stamina regenerates faster.
 
@@ -52,18 +51,21 @@ For example, when a Knight is attacking it's opponent, it's Stamina regenerates 
 
 The **Health Bars** are located at the top of the screen under the players' names.
 
-### Power
+### Endurance
 
-A small **Power Bar** is shown below a Health Bar. It is by default 2 Power.
+A small **Endurance Bar** is shown below a Health Bar. It is by default 2 Endurance.
 
-Powers are depleted from a Knight when it is **attacked while performing an attack card**.
+Endurances are depleted from a Knight when it is **attacked while performing an attack card**.
 
-When a Knight's Power is 0, its attack will be **cancelled by the opponent's attack**.
+When a Knight's Endurance is 0, its attack will be **cancelled by the opponent's attack**.
 
-The Power Bar takes time to automatically recharge. Then the Knight can resume attacking the opponent while being attacked.
+The Endurance Bar takes time to automatically recharge. Then the Knight can resume attacking the opponent while being attacked.
 
 ### Timer
 
 The **Timer** is located between the two Health Bars.
 
-When the **Timer reaches 0**, both Knights start **losing health each second**.
+The Timer starts at 60 seconds. When it **reaches 0**, the fight enters **Overtime Phase**, both Knights start **losing health each second**.
+
+Overtime Phase lasts for 20 seconds. When it reaches 0, the Knight with more health wins.
+
