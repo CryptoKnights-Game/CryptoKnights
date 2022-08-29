@@ -19,6 +19,7 @@
   * [Initial Knight Offering](knights/initial-knight-offering.md)
   * [Genesis Royalty Pool](knights/genesis-royalty-pool.md)
   * [Minting New Knights](knights/minting-new-knights.md)
+* [Castles](castles.md)
 * [Auctions](auctions.md)
 * [Marketplace](marketplace.md)
 * [eSports Tournaments](esports-tournaments.md)
