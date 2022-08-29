@@ -8,9 +8,9 @@ has_children: true
 
 ![RUBY](<../files/RUBY anime.gif>)
 
-**Name:** CryptoKnights RUBY
+**Name:** RUBY
 
-**Ticker:** RUBY
+**Symbol:** RUBY
 
 **Supply:** 500,000,000 (Plus 20,000,000 annual new mints)
 
