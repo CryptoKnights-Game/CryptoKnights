@@ -10,7 +10,7 @@ permalink: /
 
 ### What is CryptoKnights?
 
-In one word, CryptoKnights is a game where **two medieval Knights bash each other with Swords**. The combat is performed real-time, but actions are made by playing Cards. It is thus a hybrid of **Real-Time Fighting Game** and **Digital Collectible Card Game**.
+In one word, CryptoKnights is a game in which **two medieval Knights bash each other with Swords**. The combat is performed real-time, but actions are made by playing Cards. It is thus a hybrid of **Real-Time Fighting Game** and **Digital Collectible Card Game**.
 
 ### Free to Play
 
