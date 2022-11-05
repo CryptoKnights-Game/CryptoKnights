@@ -25,17 +25,17 @@ nav_order: 11
 * [x] Demo Tournament
 * [x] Demo Auction
 * [x] Email Login
-* [ ] Listed on Play Store
+* [x] Listed on Play Store
 * [ ] Listed on App Store
-* [ ] **Open Beta**
-* [ ] Beta Tester Tournament
-* [ ] Official PvP Ranking System
-* [ ] Official Launch of the Free Version of CryptoKnights
+* [x] **Open Beta**
+* [x] Beta Tester Tournament
+* [x] Official PvP Ranking System
+* [x] Official Launch of the Free Version of CryptoKnights
 
 ### Postlaunch: Game Mechanics
 
 * [ ] Ranked Games
-* [ ] XP Rewards from Ranked Games
+* [x] XP Rewards from Ranked Games
 * [ ] RUBY Rewards from Ranked Games
 * [ ] Clans
 * [ ] Boss Fights
@@ -51,9 +51,9 @@ nav_order: 11
 
 * [ ] **Initial Knight Offering**
 * [ ] **Initial RUBY Offering**
-* [ ] Wallet Integration
-* [ ] RUBY Bridging
-* [ ] NFT Bridging
+* [x] Wallet Integration
+* [x] RUBY Bridging
+* [x] NFT Bridging
 * [ ] New Knight NFT Minting
 * [ ] **Initial Card Offering**
 * [ ] New Card NFT Minting
@@ -91,6 +91,5 @@ nav_order: 11
 
 * [ ] Multiway Live Streaming System
 * [ ] CryptoKnights Minigame
-* [ ] CryptoKnights Minecraft Server
-* [ ] CryptoKnights Roblox Server
-* [ ] CryptoKnights Terraria Server
+* [ ] Minecraft Integration
+* [ ] Roblox Integration
