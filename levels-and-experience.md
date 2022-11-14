@@ -1,18 +1,14 @@
 ---
-layout: default
 title: Levels & Experience
 nav_order: 4
 ---
 
 # Levels & Experience
 
-CryptoKnights has a unique leveling system. **Levels (Lv)** and **Experience (XP)** are viewed as scarce assets!
+CryptoKnights has a unique leveling system. **Levels** and **Experience (EXP)** are viewed as scarce assets!
 
-* Only **Ranked Games** give Knights XP.&#x20;
-* The higher the XP, the higher the Level of that Knight.
-* The matching system will attempt to match Knights with similar Levels.
-* Winner gains XP. Loser loses **more** XP.
-* When a low Level Knight beats a high one, it earns a lot more XP, and vice versa.
-* Player can spend RUBY to restore XP / Level to its **historical max**.
+* The main way for a Knight to gain EXP to level up is through PvP Versus.
+* Winner gains EXP. Loser loses **more** EXP.
+* Player can **spend RUBY to restore EXP** to its **historical max**. At launch, **1 RUBY restores 100 EXP**.
 * Player should find it worthwhile to do so because higher Level Knights earn more RUBY.
-* XP slowly regenerates when a Knight is not played.
+* **EXP slowly regenerates when a Knight is not played.** At launch, **1 EXP takes 1 minute to regenerate**, therefore a Knight regenerates 1,440 EXP per day.
