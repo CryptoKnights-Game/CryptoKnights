@@ -27,6 +27,8 @@ Once a Card is played, draw a new Card (the grey Card marked "NEXT").
 
 There are **8 cards in total** in a player's Card deck.
 
+<figure><img src=".gitbook/assets/IMG_5565.PNG" alt=""><figcaption><p>A Full Deck of Cards for a Longsword Player</p></figcaption></figure>
+
 ### Cards
 
 Cards are categorized by their background color:
@@ -38,6 +40,8 @@ Cards are categorized by their background color:
 * **Purple**: Special
 
 The numbers shown on the top of the Cards are the Stamina it consumes.
+
+
 
 ### Stamina
 
