@@ -16,19 +16,19 @@ In one word, CryptoKnights is a game in which **two medieval Knights bash each o
 
 **Anyone can download the game and start playing.** CryptoKnights will feel like a traditional free mobile game to a traditional gamer. However, as the player progresses through the game, it should be apparent that **opting into the blockchain ecosystem** will bring a much enhanced experience for them.
 
-<figure><img src=".gitbook/assets/IMG_5562 (2).PNG" alt=""><figcaption><p>Anyone can "Play as Guest" to experience the game</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_5562 (2).PNG" alt=""><figcaption><p>Anyone can "Play as Guest"</p></figcaption></figure>
 
 ### Blockchain Integration
 
-CryptoKnights allows in-game assets to be **transferred between the game and blockchains**. Those assets will be in the form of, in common understanding, **cryptocurrencies** (RUBY) and **NFTs** (Knights, Cards and more).
+CryptoKnights allows in-game assets to be **transferred between the game and blockchains**. Those assets will be in the form of, in common understanding, **cryptocurrencies** (RUBY) and **NFTs** (Knights, Skins and more).
 
-We aim to be a **multichain** game, meaning that the assets can exists on multiple blockchains, so as to interact with different cryptoassets on those blockchains.
+We aim to be a **multichain** game, meaning that the assets can exist on multiple blockchains, so as to interact with different cryptoassets on those blockchains.
 
 ### Play to Earn?
 
 One can view CryptoKnights as a Play to Earn game (P2E), similar to other well-known blockchain games like Axie Infinity. However, with a combat system based on playing Cards, we like to see CryptoKnights as more of a Trading Card Game like Gods Unchained, where **value is created via trading Cards and items**.
 
-Another core concept of CryptoKnights is that the **in-game assets are upgradable**. Knights can be leveled up, Cards can be combined, items can be enhanced. **The NFTs a player holds go up in value over time.** The cryptocurrency income is only a miniscule part of the game economy.
+Another core concept of CryptoKnights is that the **in-game assets are upgradable**. Knights can level up, Cards can be combined, items can be enhanced. **The NFTs a player holds go up in value over time.** The cryptocurrency income is only a miniscule part of the game economy.
 
 Therefore a better description of CryptoKnights should be **Play to Build**! Or, Play to Buidl.
 
