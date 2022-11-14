@@ -33,7 +33,11 @@ Knights that lose too much EXP cannot participate in Story Mode until they recov
 
 Friends can set a Custom Match to fight each other.
 
-A use case of this game mode is to set up matches for **eSports Tournaments**.
+Custom Match allows **observers** to watch the match real-time!
+
+A use case of this game mode is to set up matches for **Esports Tournaments**.
+
+<figure><img src=".gitbook/assets/IMG_5573.PNG" alt=""><figcaption><p>A friendly match in Custom Match!</p></figcaption></figure>
 
 ### Boss Fight (Coming Soon)
 
