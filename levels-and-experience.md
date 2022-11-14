@@ -11,4 +11,4 @@ CryptoKnights has a unique leveling system. **Levels** and **Experience (EXP)** 
 * Winner gains EXP. Loser **loses** EXP.
 * A player can **spend RUBY to restore a Knight's EXP** to its **historical max**. At launch, **1 RUBY restores 100 EXP**.
 * Player should find it worthwhile to do so because higher Level Knights earn more RUBY, are stronger, and have more access to in-game features.
-* **EXP slowly regenerates when a Knight is not played.** At launch, **1 EXP takes 1 minute to regenerate**, therefore a Knight regenerates 1,440 EXP per day.
+* **EXP slowly regenerates over time.** At launch, **1 EXP takes 1 minute to regenerate**, therefore a Knight regenerates 1,440 EXP per day.
