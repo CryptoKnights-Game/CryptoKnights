@@ -16,7 +16,7 @@ In one word, CryptoKnights is a game in which **two medieval Knights bash each o
 
 **Anyone can download the game and start playing.** CryptoKnights will feel like a traditional free mobile game to a traditional gamer. However, as the player progresses through the game, it should be apparent that **opting into the blockchain ecosystem** will bring a much enhanced experience for them.
 
-<figure><img src=".gitbook/assets/IMG_5562 (2).PNG" alt=""><figcaption><p>Anyone can "Play as Guest"</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_5562 (2).PNG" alt=""><figcaption><p>Anyone can "Play as Guest" to experience the game</p></figcaption></figure>
 
 ### Blockchain Integration
 
