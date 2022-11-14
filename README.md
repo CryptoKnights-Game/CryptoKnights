@@ -6,7 +6,7 @@ permalink: /
 
 # Overview
 
-![](<.gitbook/assets/CK logo-V2-promo banner (1).png>)
+<figure><img src=".gitbook/assets/CK banner.png" alt=""><figcaption><p>CryptoKnights with a bunch of Knights!</p></figcaption></figure>
 
 ### What is CryptoKnights?
 
