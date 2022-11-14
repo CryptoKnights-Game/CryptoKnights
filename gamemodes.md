@@ -27,7 +27,7 @@ Knights that lose too much EXP cannot participate in Story Mode until they recov
 
 <figure><img src=".gitbook/assets/IMG_5571.PNG" alt=""><figcaption><p>A Knight's Journey</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/IMG_5572.PNG" alt=""><figcaption><p>Battle with Enemies on the Way and Earn Rewards</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_5572.PNG" alt=""><figcaption><p>Battle with enemies on the way and earn rewards.</p></figcaption></figure>
 
 ### Custom Match
 
