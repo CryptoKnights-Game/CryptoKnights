@@ -27,7 +27,7 @@ Once a Card is played, draw a new Card (the grey Card marked "NEXT").
 
 There are **8 cards in total** in a player's Card deck.
 
-<figure><img src=".gitbook/assets/IMG_5565.PNG" alt=""><figcaption><p>A Full Deck of Cards for a Longsword Player</p></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_5565.PNG" alt=""><figcaption><p>A Full Deck of Cards for a Long Sword Player</p></figcaption></figure>
 
 ### Cards
 
@@ -41,7 +41,7 @@ Cards are categorized by their background color:
 
 The numbers shown on the top of the Cards are the Stamina it consumes.
 
-
+<figure><img src=".gitbook/assets/IMG_5566.PNG" alt=""><figcaption><p>Build Your Own Deck!</p></figcaption></figure>
 
 ### Stamina
 
@@ -49,7 +49,7 @@ Stamina is used to play Cards. It is shown as a bar below your hand of Cards.
 
 Stamina **regenerates automatically**. The maximum Stamina is 10. The state of the Knight will affect it's regeneration speed.
 
-For example, when a Knight is attacking it's opponent, it's Stamina regenerates slower; when the Knight is standing still, it's Stamina regenerates faster.
+For example, when a Knight is attacking its opponent, its Stamina regenerates slower; when the Knight is standing still, its Stamina regenerates faster.
 
 ### Health
 
