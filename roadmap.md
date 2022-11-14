@@ -34,13 +34,12 @@ nav_order: 11
 
 ### Postlaunch: Game Mechanics
 
-* [ ] Ranked Games
-* [x] XP Rewards from Ranked Games
-* [ ] RUBY Rewards from Ranked Games
+* [x] XP Rewards from PvP
+* [ ] RUBY Rewards from PvP
 * [ ] Clans
 * [ ] Boss Fights
 * [ ] Clan Tournaments
-* [ ] Solo Tournaments
+* [x] Solo Tournaments
 * [ ] 3rd Party Skins
 * [ ] 3rd Party Emotes
 * [ ] Different Tiers of Knights
@@ -68,7 +67,7 @@ nav_order: 11
 
 * [ ] **Ethereum**
 * [ ] **Ethereum PoW?**
-* [ ] **Polygon PoS** on Ethereum
+* [x] **Polygon PoS** on Ethereum
 * [ ] **Arbitrum** on Ethereum
 * [ ] **Arbitrum Nova** on Ethereum
 * [ ] **Optimism** on Ethereum
