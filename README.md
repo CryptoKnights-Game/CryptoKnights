@@ -6,7 +6,7 @@ permalink: /
 
 # Overview
 
-<figure><img src=".gitbook/assets/CK banner.png" alt=""><figcaption><p>CryptoKnights with a bunch of Knights!</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CK banner.png" alt=""><figcaption><p>CryptoKnights with a bunch of Knights (Yes, a snowman can be a Knight.)</p></figcaption></figure>
 
 ### What is CryptoKnights?
 
