@@ -12,10 +12,9 @@ nav_order: 11
 * [x] Discord
 * [x] Telegram
 * [x] Youtube
-* [ ] TikTok
-* [ ] Medium
-* [ ] Facebook
 * [ ] Instagram
+* [ ] TikTok
+* [ ] Facebook
 * [ ] Fandom.com
 * [ ] Public Github
 
@@ -35,7 +34,7 @@ nav_order: 11
 ### Postlaunch: Game Mechanics
 
 * [x] XP Rewards from PvP
-* [ ] RUBY Rewards from PvP
+* [x] RUBY Rewards from PvP
 * [ ] Clans
 * [ ] Boss Fights
 * [ ] Clan Tournaments
@@ -53,8 +52,8 @@ nav_order: 11
 * [x] Wallet Integration
 * [x] RUBY Bridging
 * [x] NFT Bridging
-* [ ] New Knight NFT Minting
-* [ ] **Initial Card Offering**
+* [x] New Knight NFT Minting
+* [ ] Initial Card Offering
 * [ ] New Card NFT Minting
 * [ ] NFT Rental Market
 * [ ] Weapon NFT Minting
@@ -66,29 +65,23 @@ nav_order: 11
 ### Deploy Contracts on EVM Chains
 
 * [ ] **Ethereum**
-* [ ] **Ethereum PoW?**
 * [x] **Polygon PoS** on Ethereum
 * [ ] **Arbitrum** on Ethereum
 * [ ] **Arbitrum Nova** on Ethereum
 * [ ] **Optimism** on Ethereum
 * [ ] **Gnosis** on Ethereum
-* [ ] **Optimism on Gnosis** on Ethereum
+* [ ] **BNB Chain**
+* [ ] **Avalanche-C**
 * [ ] **Moonbeam** on Polkadot
-* [ ] **BNB**
 * [ ] **Aurora** on NEAR
 * [ ] **Evmos** on Cosmos
-* [ ] **Celo**
-* [ ] **Avalanche-C**
-* [ ] **Fantom**
-* [ ] **Cronos**
 * [ ] **Moonriver** on Kusama
-* [ ] **Harmony**
 
 (The deployment order may be subject change.)
 
 ### Expansions
 
-* [ ] Multiway Live Streaming System
+* [ ] Live Streaming System
 * [ ] CryptoKnights Minigame
 * [ ] Minecraft Integration
 * [ ] Roblox Integration
