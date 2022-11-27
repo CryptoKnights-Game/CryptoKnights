@@ -15,7 +15,6 @@ nav_order: 11
 * [ ] Instagram
 * [ ] TikTok
 * [ ] Facebook
-* [ ] Fandom.com
 * [ ] Public Github
 
 ### Prelaunch
@@ -31,7 +30,7 @@ nav_order: 11
 * [x] Official PvP Ranking System
 * [x] Official Launch of the Free Version of CryptoKnights
 
-### Postlaunch: Game Mechanics
+### Postlaunch
 
 * [x] XP Rewards from PvP
 * [x] RUBY Rewards from PvP
@@ -53,9 +52,10 @@ nav_order: 11
 * [x] RUBY Bridging
 * [x] NFT Bridging
 * [x] New Knight NFT Minting
-* [ ] Initial Card Offering
-* [ ] New Card NFT Minting
+* [ ] NFT Marketplace
 * [ ] NFT Rental Market
+* [ ] Initial Card Offering
+* [ ] Card NFT Minting
 * [ ] Weapon NFT Minting
 * [ ] Armor NFT Minting
 * [ ] Skin NFT Minting
