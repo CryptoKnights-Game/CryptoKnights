@@ -1,5 +1,4 @@
 ---
-layout: default
 title: On-Chain Assets
 parent: Game Assets
 nav_order: 2
@@ -92,3 +91,11 @@ We expect to see legendary Battle Replays becoming highly valuable over time.
 ### RUBY
 
 RUBY is the main currency in the game. See $RUBY page.
+
+### SHARD
+
+SHARD is a possible future token derived from Shards in the game used for upgrading Weapons & Armor. SHARD may have additional usage then.&#x20;
+
+### CRYSTAL
+
+CRYSTAL is a possible future token which will serve as the Governance Token of CryptoKnights.

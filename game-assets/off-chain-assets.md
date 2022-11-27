@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Off-Chain Assets
 parent: Game Assets
 nav_order: 1
@@ -16,6 +15,8 @@ The in-game currency that runs only on the Server Layer. Can be earned easier th
 ### Shards
 
 Shards are consumed to upgrade, or, "Limit Break", Weapons and Armors in the game.
+
+Shards may become an On-Chain Asset in the future and serve as the second token in CryptoKnights.
 
 ### Artifacts
 
@@ -36,4 +37,3 @@ Chat Windows are used to change the shape and color of the chat box when a playe
 ### Unminted On-Chain Assets
 
 Items that haven't been minted and withdrawn onto the player's wallet as ERC tokens.
-

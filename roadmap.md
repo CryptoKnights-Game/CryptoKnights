@@ -32,12 +32,15 @@ nav_order: 11
 
 ### Postlaunch
 
+* [x] RUBY Launch
 * [x] XP Rewards from PvP
 * [x] RUBY Rewards from PvP
+* [ ] SHARD Launch
 * [ ] Clans
 * [ ] Boss Fights
 * [ ] Clan Tournaments
 * [x] Solo Tournaments
+* [ ] CRYSTAL Launch
 * [ ] 3rd Party Skins
 * [ ] 3rd Party Emotes
 * [ ] Different Tiers of Knights
