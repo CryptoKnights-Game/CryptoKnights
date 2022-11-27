@@ -15,6 +15,8 @@ The winning Knight earns EXP and can level up; the losing Knight loses EXP! If a
 
 If a player wins with a CryptoKnight (on-chain Knight), they **earn additional RUBY rewards**. This is one of the "Play & Earn" aspect of the game.
 
+<figure><img src=".gitbook/assets/IMG_5608.PNG" alt=""><figcaption><p>Earning PvP Scores, GOLD, EXP, and RUBY from a Victory!</p></figcaption></figure>
+
 <figure><img src=".gitbook/assets/IMG_5569.PNG" alt=""><figcaption><p>Losing EXP in a Defeat!</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/IMG_5570.PNG" alt=""><figcaption><p>Getting locked out after losing too much EXP!</p></figcaption></figure>
