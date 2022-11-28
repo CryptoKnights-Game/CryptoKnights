@@ -10,8 +10,7 @@ nav_order: 11
 * [x] Landing Page [https://cryptoknights.games/](https://cryptoknights.games/)
 * [x] Twitter [https://twitter.com/CryptoKnightsss](https://twitter.com/CryptoKnightsss)
 * [x] Discord [https://discord.gg/wKDNG4BqCM](https://discord.gg/wKDNG4BqCM)
-* [x] Telegram&#x20;
-  * [x] General [https://t.me/CryptoKnightsGames](https://t.me/CryptoKnightsGames)
+* [x] Telegram [https://t.me/CryptoKnightsGames](https://t.me/CryptoKnightsGames)
   * [x] 中文 [https://t.me/CryptoKnightsZH](https://t.me/CryptoKnightsZH)
   * [x] Indo [https://t.me/CryptoKnightsIndo](https://t.me/CryptoKnightsIndo)
 * [x] Youtube [https://www.youtube.com/@cryptoknights6300](https://www.youtube.com/@cryptoknights6300)
