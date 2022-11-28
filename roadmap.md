@@ -7,12 +7,15 @@ nav_order: 11
 
 ### Social
 
-* [x] Landing Page
-* [x] Twitter
-* [x] Discord
-* [x] Telegram
-* [x] Youtube
-* [ ] Instagram
+* [x] Landing Page [https://cryptoknights.games/](https://cryptoknights.games/)
+* [x] Twitter [https://twitter.com/CryptoKnightsss](https://twitter.com/CryptoKnightsss)
+* [x] Discord [https://discord.gg/wKDNG4BqCM](https://discord.gg/wKDNG4BqCM)
+* [x] Telegram&#x20;
+  * [x] General [https://t.me/CryptoKnightsGames](https://t.me/CryptoKnightsGames)
+  * [x] 中文 [https://t.me/CryptoKnightsZH](https://t.me/CryptoKnightsZH)
+  * [x] Indo [https://t.me/CryptoKnightsIndo](https://t.me/CryptoKnightsIndo)
+* [x] Youtube [https://www.youtube.com/@cryptoknights6300](https://www.youtube.com/@cryptoknights6300)
+* [x] Instagram [https://www.instagram.com/cryptoknights.games/](https://www.instagram.com/cryptoknights.games/)
 * [ ] TikTok
 * [ ] Facebook
 * [ ] Public Github
@@ -30,17 +33,21 @@ nav_order: 11
 * [x] Official PvP Ranking System
 * [x] Official Launch of the Free Version of CryptoKnights
 
-### Postlaunch
+### Postlaunch: Gameplay
 
-* [x] RUBY Launch
+* [x] RUBY Token Launch
+* [ ] SHARD Token Launch
+* [ ] CRYSTAL Token Launch
+* [ ] Skin NFT Launch
+* [ ] Weapon NFT Launch
+* [ ] Armor NFT Launch
+* [ ] Emote NFT Launch
 * [x] XP Rewards from PvP
 * [x] RUBY Rewards from PvP
-* [ ] SHARD Launch
 * [ ] Clans
 * [ ] Boss Fights
 * [ ] Clan Tournaments
 * [x] Solo Tournaments
-* [ ] CRYSTAL Launch
 * [ ] 3rd Party Skins
 * [ ] 3rd Party Emotes
 * [ ] Different Tiers of Knights
