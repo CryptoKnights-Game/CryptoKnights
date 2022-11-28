@@ -34,14 +34,9 @@ nav_order: 11
 
 ### Postlaunch: Gameplay
 
-* [x] RUBY Token Launch
-* [ ] SHARD Token Launch
-* [ ] CRYSTAL Token Launch
-* [ ] Skin NFT Launch
-* [ ] Weapon NFT Launch
-* [ ] Armor NFT Launch
-* [ ] Emote NFT Launch
-* [x] XP Rewards from PvP
+* [x] PvP Score Rewards from PvP
+* [x] EXP Rewards from PvP
+* [x] GOLD Rewards from PvP
 * [x] RUBY Rewards from PvP
 * [ ] Clans
 * [ ] Boss Fights
@@ -55,21 +50,21 @@ nav_order: 11
 
 ### Postlaunch: Blockchain Integration
 
-* [ ] **Initial Knight Offering**
-* [ ] **Initial RUBY Offering**
-* [x] Wallet Integration
-* [x] RUBY Bridging
+* [x] RUBY Token Launch
+* [ ] SHARD Token Launch
+* [ ] CRYSTAL Token Launch
+* [x] CryptoKnight NFT Launch
+* [ ] Skin NFT Launch
+* [ ] Card NFT Launch
+* [ ] Weapon NFT Launch
+* [ ] Armor NFT Launch
+* [ ] Emote NFT Launch
+* [ ] Battle Replay NFT Launch
+* [x] Wallet/Email/GameAccount Integration
+* [x] Token Bridging
 * [x] NFT Bridging
-* [x] New Knight NFT Minting
 * [ ] NFT Marketplace
 * [ ] NFT Rental Market
-* [ ] Initial Card Offering
-* [ ] Card NFT Minting
-* [ ] Weapon NFT Minting
-* [ ] Armor NFT Minting
-* [ ] Skin NFT Minting
-* [ ] Emote NFT Minting
-* [ ] Playback NFT Minting
 
 ### Deploy Contracts on EVM Chains
 
