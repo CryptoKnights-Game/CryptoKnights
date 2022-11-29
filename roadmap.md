@@ -55,11 +55,12 @@ nav_order: 11
 * [ ] CRYSTAL Token Launch
 * [x] CryptoKnight NFT Launch
 * [ ] Skin NFT Launch
+* [ ] Emote NFT Launch
+* [ ] PvP Ranking NFT Launch
+* [ ] Battle Replay NFT Launch
 * [ ] Card NFT Launch
 * [ ] Weapon NFT Launch
 * [ ] Armor NFT Launch
-* [ ] Emote NFT Launch
-* [ ] Battle Replay NFT Launch
 * [x] Wallet/Email/GameAccount Integration
 * [x] Token Bridging
 * [x] NFT Bridging
