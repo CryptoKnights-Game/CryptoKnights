@@ -96,8 +96,6 @@ nav_order: 11
 * [ ] **Evmos** on Cosmos
 * [ ] **Moonriver** on Kusama
 
-(The deployment order may be subject change.)
-
 ### Expansions
 
 * [ ] Live Streaming System
