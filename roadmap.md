@@ -80,6 +80,7 @@ nav_order: 11
 * [ ] xRUBY Single Staking -> CRYSTAL
 * [ ] CRYSTAL/RUBY Uniswap Pool
 * [ ] CRYSTAL Single Staking
+* [ ] xRUBY Single Staking -> Tokens from partner games
 
 ### Multichain Support
 
