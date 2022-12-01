@@ -16,7 +16,7 @@
   * [Monetary Policy](usdruby/monetary-policy.md)
   * [Fiscal Policy](usdruby/fiscal-policy.md)
 * [$SHARD](usdshard.md)
-* [Page 2](page-2.md)
+* [$CRYSTAL](usdcrystal.md)
 * [Knights](knights/README.md)
   * [Initial Knight Offering](knights/initial-knight-offering.md)
   * [Genesis Royalty Pool](knights/genesis-royalty-pool.md)
