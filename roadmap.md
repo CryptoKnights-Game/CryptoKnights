@@ -67,7 +67,21 @@ nav_order: 11
 * [ ] NFT Marketplace
 * [ ] NFT Rental Market
 
-### Deploy Contracts on EVM Chains
+### DeFi Integration
+
+* [x] RUBY/DAI Uniswap Pool
+* [x] RUBY/USDT Uniswap Pool
+* [ ] RUBY/USDC Uniswap Pool
+* [ ] RUBY <-> xRUBY Single Staking
+* [ ] RUBY LP Farming
+* [ ] xRUBY Single Staking -> SHARD
+* [ ] SHARD/RUBY Uniswap Pool
+* [ ] SHARD Single Staking
+* [ ] xRUBY Single Staking -> CRYSTAL
+* [ ] CRYSTAL/RUBY Uniswap Pool
+* [ ] CRYSTAL Single Staking
+
+### Multichain Support
 
 * [ ] **Ethereum**
 * [x] **Polygon PoS** on Ethereum
