@@ -53,7 +53,7 @@ nav_order: 11
 * [x] RUBY Token Launch
 * [ ] SHARD Token Launch
 * [ ] CRYSTAL Token Launch
-* [x] CryptoKnight NFT Launch
+* [x] CryptoKnights NFT Launch
 * [ ] Skin NFT Launch
 * [ ] Emote NFT Launch
 * [ ] PvP Ranking NFT Launch
