@@ -32,7 +32,7 @@ nav_order: 11
 * [x] Official PvP Ranking System
 * [x] Official Launch of the Free Version of CryptoKnights
 
-### Postlaunch: Gameplay
+### Gameplay
 
 * [x] PvP Score Rewards from PvP
 * [x] EXP Rewards from PvP
@@ -48,7 +48,7 @@ nav_order: 11
 * [ ] New Weapon Types
 * [ ] New Professions
 
-### Postlaunch: Blockchain Integration
+### Blockchain Integration
 
 * [x] RUBY Token Launch
 * [ ] SHARD Token Launch
