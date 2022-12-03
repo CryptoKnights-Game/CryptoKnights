@@ -8,7 +8,7 @@
 * When a Castle reaches the required Knight amount, the owner can pay a Construction Fee to **upgrade** it.
 * Castle owners **receive a chunk of the Royalties** when the Knights that belongs to that Castle gets traded on the open market.
 * Castle owners can mint Knights from the Castle with a **discount**.
-* Castles can impose a **tax** on its Knights. They can set the **tax rate** for part of those Knights' earnings go to the Castle.
+* Castles can impose a **tax** on its Knights. They can set the **tax rate** for part of those Knights' earnings to go to the Castle.
 * Castle owners can choose to **allow other people to mint Knights** from that Castle. The owner receives a chunk of the minting fee.
 * Each Castle tier will have **special features**.
 * Castles can **merge.**
