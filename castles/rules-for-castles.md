@@ -5,9 +5,10 @@
   * We will premint 1,000 "Genesis Knights" at launch, therefore a new Knight will cost 10 USD to mint at start, putting a Watch at 100 USD to mint at start.
 * Each Castle can own up to **4%** of the total Knight supply.
 * There can only ever be **7 Citadels** and **21 Castles**.
-* When a Castle reaches the required Knight amount, the owner can pay Upgrade Fee to **upgrade** it.
+* When a Castle reaches the required Knight amount, the owner can pay a Construction Fee to **upgrade** it.
 * Castle owners **receive a chunk of the Royalties** when the Knights that belongs to that Castle gets traded on the open market.
 * Castle owners can mint Knights from the Castle with a **discount**.
+* Castles can impose a **tax** on its Knights. They can set the **tax rate** for part of those Knights' earnings go to the Castle.
 * Castle owners can choose to **allow other people to mint Knights** from that Castle. The owner receives a chunk of the minting fee.
 * Each Castle tier will have **special features**.
 * Castles can **merge.**
