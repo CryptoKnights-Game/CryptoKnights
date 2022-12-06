@@ -15,6 +15,7 @@ nav_order: 11
   * [x] Indo [https://t.me/CryptoKnightsIndo](https://t.me/CryptoKnightsIndo)
 * [x] Youtube [https://www.youtube.com/@cryptoknights6300](https://www.youtube.com/@cryptoknights6300)
 * [x] Instagram [https://www.instagram.com/cryptoknights.games/](https://www.instagram.com/cryptoknights.games/)
+* [ ] Dynamic Metadata for NFT platforms (OpenSea, etc.)
 * [ ] TikTok
 * [ ] Facebook
 * [ ] Public Github
