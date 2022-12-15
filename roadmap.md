@@ -41,6 +41,7 @@ nav_order: 11
 * [x] RUBY Rewards from PvP
 * [ ] Clans
 * [ ] Boss Fights
+* [ ] Practice Mode
 * [ ] Clan Tournaments
 * [x] Solo Tournaments
 * [ ] 3rd Party Skins
