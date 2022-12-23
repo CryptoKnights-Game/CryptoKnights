@@ -27,7 +27,7 @@ nav_order: 11
 * [x] Demo Auction
 * [x] Email Login
 * [x] Listed on Play Store
-* [ ] Listed on App Store
+* [x] Listed on App Store
 * [x] **Open Beta**
 * [x] Beta Tester Tournament
 * [x] Official PvP Ranking System
